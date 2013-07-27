@@ -1,0 +1,24 @@
+VIM looks sucks to me, the idea of writing document all by keyboard is good, buthow vim made it is stupid. 
+
+While, anyway, I still cannot deny that vim is usefull and there is no altinative way to type something in your PC YET.
+
+I have to learn it. At least knowing something.
+
+The painful part is, you have to remember a lot of short-cuts. Let me list a few of them.
+
+:w	means Write
+:q	means Quit
+:w [filename]	You guess
+:r [filename]   append content in given file to current cursor.
+
+That the most basic operations.
+
+While, most application has built-in help document. VIM too. 
+
+:h	Show help document
+
+but as you can guess, this document could be rather huge. So the whole file was expectedly splitted into many files introducing difference topics. 
+
+
+
+
